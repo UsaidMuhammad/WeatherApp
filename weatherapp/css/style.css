@@ -1,0 +1,28 @@
+/*Flat colors for simple people*/
+html, body {
+    background-color: #313436;
+    color: #d1d1d1;
+    height:100%;
+}
+
+/* Space that baby up*/
+.main{
+    margin: auto;   
+}
+
+/*Spacing for readability*/
+h1, h2, h3, h4, h5, h6 {
+    padding: 10px;
+}
+
+/*making the link stand out*/
+a:link, a:visited, a:hover, a:focus, a:hover {
+    color: #e02e2e;;
+    text-decoration: none;
+}
+
+/*CamelCase.... or at least i think it is*/
+#desc {
+    text-transform: capitalize;
+}
+
